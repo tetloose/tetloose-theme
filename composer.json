@@ -1,0 +1,16 @@
+{
+    "name": "tetloose/tetloose-theme",
+    "type": "wordpress-theme",
+    "description": "Wordpress Theme starter package.",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "James Tetley",
+            "email": "tetloose@gmail.com",
+            "homepage": "https://tetloose.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/tetloose/tetloose-theme/issues"
+    }
+}
