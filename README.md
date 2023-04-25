@@ -1,14 +1,5 @@
 # Tetloose-Theme
 
-Barebones Wordpress Development Theme.
+Barebones Wordpress theme.
 
-Collection of unstyled components
-
-**Requirements**
-
-- ACF
-- Tetloose-Core (plugin)
-
-**Optional**
-
-- Tetloose-WP
+Used with Tetloose-WP.
