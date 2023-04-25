@@ -1,5 +1,3 @@
 # Tetloose-Theme
 
-Barebones Wordpress theme.
-
-Used with Tetloose-WP.
+Barebones Wordpress Theme used with Tetloose-WP.
