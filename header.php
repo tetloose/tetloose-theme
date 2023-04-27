@@ -5,4 +5,4 @@
  * @package Tetloose-Theme
  **/
 
-get_template_part( '/components/header', 'index' );
+get_template_part( '/components/wrapper', 'header' );
