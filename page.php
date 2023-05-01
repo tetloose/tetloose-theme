@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Page
+ * Page
  *
  * @package Tetloose-Theme
  **/
