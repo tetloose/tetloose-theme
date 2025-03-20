@@ -6,6 +6,6 @@
  **/
 
 /**
- * Requre once functions
+ * Require once functions
  **/
 require_once TEMPLATEPATH . '/components/functions.php';
